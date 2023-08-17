@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438354018833",
+    "project_id": "genie-5eec8",
+    "storage_bucket": "genie-5eec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438354018833:android:16976e6b05b26d1d5b27b0",
+        "android_client_info": {
+          "package_name": "com.example.genie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438354018833-0mlgojtumofudrda23idg063o0gj01bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI29fwbq-ANJ3SxZC9U44sXg-TUn_pWJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438354018833-0mlgojtumofudrda23idg063o0gj01bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
